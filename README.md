@@ -6,4 +6,6 @@ Sou estudante da UFC em Engenharia de Software e também possuo inglês avançad
 Busco emprego e estágio na área da programação.<br>
 Você pode me contatar através deste email: it.pontovir@gmail.com
 
+### Tecnologias que mais utilizo:
+
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Tito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

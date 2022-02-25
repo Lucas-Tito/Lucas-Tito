@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lucas Tito
 
-Sou estudante da UFC em Engenharia de Software e também possuo inglês avançado.<br>
+Sou estudante da Universidade Federal do Ceará (UFC) em Engenharia de Software e também possuo inglês avançado.<br>
 Busco emprego e estágio na área da programação.<br>
 Você pode me contatar através deste email: it.pontovir@gmail.com
 

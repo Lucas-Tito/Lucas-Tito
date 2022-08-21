@@ -1,18 +1,18 @@
 <div align="center">
-<h1> Olá, meu nome é Lucas Tito </h1>
+<h1> Greetings, I'm Lucas Tito </h1>
 
-Graduando em Engenharia de Software - UFC <br>
-Inglês Avançado
+Graduating in Software Engineering - UFC <br>
+Advanced English
 
 <br>
 
-### Tecnologias que mais utilizo
+### Technologies I use the most 
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Tito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-## Contatos
+## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tito-530997211/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucastito.contato@gmail.com)

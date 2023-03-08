@@ -9,7 +9,7 @@
 
   ### Technologies I use the most 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Tito&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Tito&layout=compact&langs_count=6)
 
   <br>
 

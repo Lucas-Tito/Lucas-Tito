@@ -3,7 +3,7 @@
   <h1> Greetings, I'm Lucas Tito </h1>
 
   Junior FullStack Developer <br>
-  Graduating in Software Engineering - UFC <br>
+  Software Engineering - UFC <br>
   Advanced English
 
   <br>
